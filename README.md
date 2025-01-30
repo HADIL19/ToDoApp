@@ -15,3 +15,4 @@ Click the delete button next to a task to remove it.
 
 📜 License
 This project is open-source. Feel free to modify and use it.
+

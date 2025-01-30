@@ -1,16 +1,17 @@
-# qply
+📋 To-Do List App (Flutter)
+A simple Flutter app that allows users to manage a basic to-do list.
 
-A new Flutter project.
+🚀 Features
+Add tasks to the list
+Delete tasks from the list
+Scrollable task display
+🛠️ Technologies Used
+Flutter
+Dart
+📌 How to Use
+Enter a task in the input field.
+Press the "Add" button to add it to the list.
+Click the delete button next to a task to remove it.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📜 License
+This project is open-source. Feel free to modify and use it.
